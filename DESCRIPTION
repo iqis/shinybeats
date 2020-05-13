@@ -1,0 +1,16 @@
+Package: shinybeats
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Siqi",
+             family = "Zhang",
+             role = c("aut", "cre"),
+             email = "siqi.zhang.ext@bayer.com"),
+      person(given = "Bayer Oncology Computational Science (OCS)",
+             role = "cph"))
+Description: What the package does (one paragraph).
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    shiny
