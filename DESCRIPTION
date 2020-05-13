@@ -1,16 +1,15 @@
 Package: shinybeats
-Title: What the Package Does (One Line, Title Case)
+Title: Heartbeat for Shiny
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Siqi",
              family = "Zhang",
              role = c("aut", "cre"),
-             email = "siqi.zhang.ext@bayer.com"),
-      person(given = "Bayer Oncology Computational Science (OCS)",
-             role = "cph"))
-Description: What the package does (one paragraph).
-License: file LICENSE
+             email = "iqis.gnahz@gmail.com"))
+Description: In Shiny's server component, Set timers upon which evaluates expressions. This can be used for a variety of heartbeat activities.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Depends: 
+Imports: 
     shiny
+RoxygenNote: 6.1.1
