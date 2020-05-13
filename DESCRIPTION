@@ -6,7 +6,8 @@ Authors@R:
              family = "Zhang",
              role = c("aut", "cre"),
              email = "iqis.gnahz@gmail.com"))
-Description: In Shiny's server component, Set timers upon which evaluates expressions. This can be used for a variety of heartbeat activities.
+Description: In Shiny's server component, Set timers upon which expressions are evaluated periodically. 
+    This can be used for a variety of heartbeat activities.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

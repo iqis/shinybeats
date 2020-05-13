@@ -18,7 +18,7 @@ Shiny observer
 }
 \description{
 Can be used as a keepalive utility for external connections such as SSH and WebSocket, or Shiny itself; Can also be used as a watchdog to periodically check on something.
-    This functions is thin wrapper around shiny::reactiveTimer() and shiny::observe()
+This functions is thin wrapper around shiny::reactiveTimer() and shiny::observe().
 }
 \examples{
 
